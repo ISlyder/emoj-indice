@@ -1,0 +1,364 @@
+[
+    {
+        "title": "The Godfather",
+        "description": "Le patriarche d'une famille de gangsters italo-américains cherche à transmettre son empire criminel à son fils.",
+        "type": "Drame",
+        "emojis": [
+            "🔫",
+            "🇮🇹",
+            "💰"
+        ]
+    },
+    {
+        "title": "Jurassic Park",
+        "description": "Un milliardaire crée un parc d'attractions rempli de dinosaures génétiquement reconstitués, mais tout ne se passe pas comme prévu.",
+        "type": "Science-fiction",
+        "emojis": [
+            "🦖",
+            "🦕",
+            "🌴",
+            "🎢"
+        ]
+    },
+    {
+        "title": "Forrest Gump",
+        "description": "Un homme simple d'esprit traverse plusieurs décennies de l'histoire américaine, tout en poursuivant son amour de jeunesse.",
+        "type": "Drame",
+        "emojis": [
+            "🏃‍♂️",
+            "🍤",
+            "🇺🇸",
+            "❤️"
+        ]
+    },
+    {
+        "title": "The Lion King",
+        "description": "Un jeune lion doit faire face à la tragédie et à la responsabilité de diriger sa fierté de lions dans la savane africaine.",
+        "type": "Animation",
+        "emojis": [
+            "🦁",
+            "🐒",
+            "🌞",
+            "👑"
+        ]
+    },
+    {
+        "title": "Star Wars: A New Hope",
+        "description": "Dans une galaxie lointaine, un jeune fermier se joint à une équipe de rebelles pour détruire une station spatiale gigantesque qui menace la paix dans l'univers.",
+        "type": "Science-fiction",
+        "emojis": [
+            "🚀",
+            "🌌",
+            "👽",
+            "💥"
+        ]
+    },
+    {
+        "title": "Jaws",
+        "description": "Un grand requin blanc terrorise une petite ville de plage et un groupe de personnages doit faire équipe pour le traquer et le tuer.",
+        "type": "Thriller",
+        "emojis": [
+            "🦈",
+            "🏖️",
+            "🌊",
+            "🚣‍♂️"
+        ]
+    },
+    {
+        "title": "The Dark Knight",
+        "description": "Le chevalier noir de Gotham City doit affronter un criminel sadique connu sous le nom de Joker.",
+        "type": "Action",
+        "emojis": [
+            "🦇",
+            "🃏",
+            "🌃",
+            "💥"
+        ]
+    },
+    {
+        "title": "Toy Story",
+        "description": "Un jouet cowboy jaloux doit apprendre à travailler avec un nouveau jouet spaceman pour retrouver leur propriétaire.",
+        "type": "Animation",
+        "emojis": [
+            "🤠",
+            "👨‍🚀",
+            "🧸",
+            "🔍"
+        ]
+    },
+    {
+        "title": "Back to the Future",
+        "description": "Un adolescent est envoyé dans le passé dans une machine à remonter le temps construite par son ami scientifique excentrique.",
+        "type": "Science-fiction",
+        "emojis": [
+            "⏰",
+            "🚗",
+            "👨‍🔬",
+            "🕰️"
+        ]
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "description": "Une jeune agent du FBI se fait aider par un célèbre psychiatre cannibale pour traquer un tueur en série.",
+        "type": "Thriller",
+        "emojis": [
+            "🕵️‍♀️",
+            "👨‍⚕️",
+            "🍴",
+            "🐑"
+        ]
+    },
+    {
+        "title": "The Matrix",
+        "description": "Un hacker découvre que la réalité qu'il connaît est une simulation informatique créée par des machines intelligentes et se joint à une rébellion pour les vaincre.",
+        "type": "Science-fiction",
+        "emojis": [
+            "🕶️",
+            "💻",
+            "👩‍🦲",
+            "🔫"
+        ]
+    },
+    {
+        "title": "Titanic",
+        "description": "Un aristocrate tombe amoureux d'une jeune femme pauvre à bord du paquebot Titanic, qui est sur le point de faire naufrage.",
+        "type": "Drame",
+        "emojis": [
+            "🚢",
+            "❤️",
+            "💎",
+            "🌊"
+        ]
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "description": "Deux prisonniers développent une amitié forte alors qu'ils purgeant leur peine à la prison d'État de Shawshank.",
+        "type": "Drame",
+        "emojis": [
+            "👨‍🦲",
+            "👨‍🦳",
+            "🔒",
+            "🕊️"
+        ]
+    },
+    {
+        "title": "E.T. the Extra-Terrestrial",
+        "description": "Un jeune garçon rencontre un extraterrestre perdu sur Terre et tente de l'aider à rentrer chez lui avant que les autorités ne le trouvent.",
+        "type": "Science-fiction",
+        "emojis": [
+            "🚲",
+            "👽",
+            "🌕",
+            "👦"
+        ]
+    },
+    {
+        "title": "Indiana Jones and the Raiders of the Lost Ark",
+        "description": "L'aventurier Indiana Jones doit récupérer l'Arche d'Alliance avant les nazis qui cherchent à l'utiliser pour leurs propres desseins maléfiques.",
+        "type": "Action",
+        "emojis": [
+            "🤠",
+            "🏺",
+            "🔍",
+            "💥"
+        ]
+    },
+    {
+        "title": "Fight Club",
+        "description": "Un homme déprimé rejoint un club de combat clandestin dirigé par un homme charismatique et manipulateur.",
+        "type": "Drame",
+        "emojis": [
+            "🥊",
+            "💊",
+            "👥",
+            "👨‍💼"
+        ]
+    },
+    {
+        "title": "The Terminator",
+        "description": "Un cyborg tueur est envoyé du futur pour tuer la mère du leader de la résistance humaine, mais un soldat du futur est envoyé pour la protéger.",
+        "type": "Science-fiction",
+        "emojis": [
+            "🤖",
+            "🔫",
+            "⏰",
+            "👨‍🦱"
+        ]
+    },
+    {
+        "title": "The Wizard of Oz",
+        "description": "Une jeune fille de Kansas est emportée dans un monde merveilleux et fantastique où elle rencontre des personnages étranges et doit trouver un moyen de rentrer chez elle.",
+        "type": "Fantaisie",
+        "emojis": [
+            "👧",
+            "🐶",
+            "👠",
+            "🌈"
+        ]
+    },
+    {
+        "title": "Forrest Gump",
+        "description": "Un homme simple d'esprit raconte les histoires de sa vie, qui incluent des événements majeurs de l'histoire américaine du XXe siècle.",
+        "type": "Drame",
+        "emojis": [
+            "🏃‍♂️",
+            "🍤",
+            "🎸",
+            "🇺🇸"
+        ]
+    },
+    {
+        "title": "Jurassic Park",
+        "description": "Un milliardaire crée un parc à thème avec des dinosaures clonés, mais les choses tournent mal lorsque les dinosaures s'échappent et attaquent les visiteurs.",
+        "type": "Science-fiction",
+        "emojis": [
+            "🦖",
+            "🦕",
+            "🏞️",
+            "🚪"
+        ]
+    },
+    {
+        "title": "The Lion King",
+        "description": "Un jeune lion doit affronter sa destinée en tant que roi des animaux de la savane après que son père a été assassiné par son oncle jaloux.",
+        "type": "Animation",
+        "emojis": [
+            "🦁",
+            "👑",
+            "🌞",
+            "🌅"
+        ]
+    },
+    {
+        "title": "The Godfather",
+        "description": "Le patriarche d'une famille de la mafia transmet son empire criminel à son fils plus jeune, qui doit apprendre à naviguer dans les eaux troubles de la vie de gangster.",
+        "type": "Drame",
+        "emojis": [
+            "🕵️‍♂️",
+            "🔫",
+            "👑",
+            "🍝"
+        ]
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "description": "Un hobbit est chargé de détruire un anneau maléfique qui pourrait détruire le monde et se joint à une communauté hétéroclite d'alliés pour y parvenir.",
+        "type": "Fantaisie",
+        "emojis": [
+            "🧝‍♂️",
+            "🗡️",
+            "🌋",
+            "💍"
+        ]
+    },
+    {
+        "title": "Back to the Future",
+        "description": "Un adolescent voyage dans le temps dans une machine construite par un scientifique excentrique et doit empêcher ses parents de ne jamais se rencontrer, menaçant ainsi son existence future.",
+        "type": "Science-fiction",
+        "emojis": [
+            "👦",
+            "🚘",
+            "⏰",
+            "🦕"
+        ]
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "description": "Dans une galaxie lointaine, une bande de rebelles tente de détruire une station de combat massive qui peut détruire des planètes entières.",
+        "type": "Science-fiction",
+        "emojis": [
+            "👨‍🚀",
+            "👽",
+            "⚔️",
+            "🌟"
+        ]
+    },
+    {
+        "title": "The Princess Bride",
+        "description": "Un jeune homme entreprend une quête pour sauver sa bien-aimée de son mariage avec un prince maléfique, avec l'aide de plusieurs personnages hauts en couleur.",
+        "type": "Aventure",
+        "emojis": [
+            "🗡️",
+            "👸",
+            "👦",
+            "🌈"
+        ]
+    },
+    {
+        "title": "E.T. the Extra-Terrestrial",
+        "description": "Un jeune garçon se lie d'amitié avec un extraterrestre qui a été abandonné sur Terre et doit l'aider à retourner chez lui avant qu'il ne soit capturé par les autorités.",
+        "type": "Science-fiction",
+        "emojis": [
+            "👦",
+            "👽",
+            "🌌",
+            "🚲"
+        ]
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "description": "Un banquier est emprisonné pour le meurtre de sa femme et son amant, mais finit par se lier d'amitié avec un prisonnier plus âgé et trouve un moyen de s'échapper.",
+        "type": "Drame",
+        "emojis": [
+            "🚪",
+            "👨‍✈️",
+            "💰",
+            "🕊️"
+        ]
+    },
+    {
+        "title": "The Matrix",
+        "description": "Un programmeur informatique découvre que la réalité qu'il connaît n'est qu'une simulation et doit rejoindre une rébellion contre les machines qui contrôlent l'humanité.",
+        "type": "Science-fiction",
+        "emojis": [
+            "🕶️",
+            "💻",
+            "🤖",
+            "👊"
+        ]
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "description": "Une jeune stagiaire du FBI doit recueillir des informations auprès d'un psychopathe cannibale emprisonné pour attraper un tueur en série qui est toujours en liberté.",
+        "type": "Thriller",
+        "emojis": [
+            "🔪",
+            "👩‍✈️",
+            "🧠",
+            "🐑"
+        ]
+    },
+    {
+        "title": "The Terminator",
+        "description": "Un robot tueur est envoyé dans le passé pour tuer la mère du chef de la résistance humaine, mais un soldat du futur est également envoyé pour la protéger.",
+        "type": "Science-fiction",
+        "emojis": [
+            "🤖",
+            "🔫",
+            "⏰",
+            "👩"
+        ]
+    },
+    {
+        "title": "Jaws",
+        "description": "Un grand requin blanc terrorise une ville balnéaire et un petit groupe de personnes doit le traquer et le tuer avant qu'il ne tue à nouveau.",
+        "type": "Thriller",
+        "emojis": [
+            "🦈",
+            "🏖️",
+            "🚣‍♂️",
+            "🔫"
+        ]
+    },
+    {
+        "title": "Indiana Jones and the Raiders of the Lost Ark",
+        "description": "Un archéologue aventurier est engagé par le gouvernement américain pour récupérer une relique biblique avant les nazis.",
+        "type": "Aventure",
+        "emojis": [
+            "🤠",
+            "🏺",
+            "👨‍🔬",
+            "💣"
+        ]
+    }
+]
