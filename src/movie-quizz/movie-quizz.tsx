@@ -1,5 +1,6 @@
 import { Movie } from "../model/movie";
 import React, { useState } from "react";
+import "./movie-quizz.css";
 
 interface Props {
   movies: Movie[];
@@ -14,28 +15,38 @@ const EmojiMovieQuiz: React.FC<Props> = ({ movies }) => {
       userAnswer.toLowerCase() === movies[currentMovieIndex].title.toLowerCase()
     ) {
       alert("Correct!");
+      setCurrentMovieIndex(currentMovieIndex + 1);
+      setUserAnswer("");
     } else {
       alert("Incorrect!");
     }
-    setCurrentMovieIndex(currentMovieIndex + 1);
-    setUserAnswer("");
+  };
+
+  const validAnswerWhenEnterIsPressed = (
+    e: React.KeyboardEvent<HTMLInputElement>
+  ) => {
+    if (e.key === "Enter") {
+      handleNextButtonClick();
+    }
   };
 
   return (
-    <div>
+    <>
       <h1>Emoji Movie Quiz</h1>
-      <div>
-        <h2>{movies[currentMovieIndex].title}</h2>
-        <div>{movies[currentMovieIndex].emojis}</div>
+      <div className={"form-container"}>
+        <span className={"emojis"}>{movies[currentMovieIndex].emojis}</span>
         <input
           type="text"
           value={userAnswer}
           onChange={(e) => setUserAnswer(e.target.value)}
+          onKeyDown={(e) => {
+            validAnswerWhenEnterIsPressed(e);
+          }}
           placeholder="Entrez le titre du film"
         />
-        <button onClick={handleNextButtonClick}>Suivant</button>
+        <button onClick={handleNextButtonClick}>Valider</button>
       </div>
-    </div>
+    </>
   );
 };
 

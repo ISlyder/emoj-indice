@@ -1,0 +1,29 @@
+input {
+    background-color: transparent;
+    border: 3px solid var(--ternary);
+    border-radius: var(--border-radius);
+    color: var(--primary-text);
+    font-size: 16px;
+    text-align: center;
+    height: 40px;
+    padding: 0 12px;
+}
+
+input:focus-visible {
+    outline: none;
+}
+
+button {
+    background-color: transparent;
+    border: 3px solid var(--ternary);
+    border-radius: var(--border-radius);
+    color: var(--primary-text);
+    cursor: pointer;
+    font-size: 14px;
+    height: 40px;
+    padding: 0 12px;
+}
+
+button:hover {
+    background-color: var(--ternary);
+}
